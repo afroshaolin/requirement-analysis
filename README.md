@@ -132,7 +132,9 @@ By using Use Case Diagrams, teams can ensure everyone shares a mutual understand
 
 The following diagram illustrates the high-level system architecture for the Booking Management System:
 
-![System Architecture Diagram](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*SkqrFz5Bpcl8LBiPlx3-Fg.png)
+![1CASE DIAGRAM](https://github.com/user-attachments/assets/ef0a8729-4e79-495d-81a1-a100b1b21a4c)
+
+![System Architecture Diagram] (https://miro.medium.com/v2/resize:fit:1400/format:webp/1*SkqrFz5Bpcl8LBiPlx3-Fg.png)
 
 
 ### Acceptance Criteria
